@@ -1,2 +1,6 @@
 # Scatterbrain
 Scatterbrain is a brain network visualization &amp; analysis application under development
+
+Effective data visualization is crucial in science, especially for studying complex systems where meaningful patterns may only emerge through proper data representation. Advances in brain network analysis over the past decade have improved our ability to capture relevant characteristics, but how the brain integrates all these specialized functions to enable cognition remains incompletely understood. This may partly be due to a reductionistic emphasis on separate brain features and a lack of flexible, multi-feature data integration. Currently, there is no software solution that can adequately integrate brain network features (combine or switch between different levels of detail, local and network measures, frequency bands, speeds), despite excellent computational potential to develop such a tool. We aim to develop an application that seamlessly integrates brain network analysis and visualization. This tool will simplify data exploration for researchers, enhance data communication in clinical settings, and make brain network dynamics more accessible for education.
+
+The current Scatterbrain demo version is built in Unity.
